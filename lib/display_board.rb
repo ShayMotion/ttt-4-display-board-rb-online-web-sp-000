@@ -4,8 +4,8 @@
 board = [" "," "," "," "," "," "," "," "," "]
 display_board = ["  #{board[0]}  |,"]
 puts "   |   |   "
-puts "__________"
+puts "_________"
 puts "   |   |   "
-puts "__________"
+puts "_________"
 puts "   |   |   "
 puts display_board(board)
