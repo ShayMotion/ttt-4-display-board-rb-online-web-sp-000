@@ -3,8 +3,9 @@
 
 board = [" "," "," "," "," "," "," "," "," "]
 display_board = ["  #{board[0]}  |,"]
+
 puts "__________"
 
-print "__________"
+puts "__________"
 
 puts display_board(board)
